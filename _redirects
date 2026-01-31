@@ -1,0 +1,9 @@
+# Redirect .html URLs to clean URLs (301 permanent)
+/index.html / 301
+/about.html /about 301
+/articles.html /articles 301
+/comparisons.html /comparisons 301
+/contact.html /contact 301
+/privacy.html /privacy 301
+/terms.html /terms 301
+/disclosure.html /disclosure 301
