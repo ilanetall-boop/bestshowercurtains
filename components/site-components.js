@@ -30,6 +30,16 @@
   // Inject CSS
   // ---------------------------------------------------------------------------
   var css = [
+    '/* ===== RESET: isolate header/footer from page styles ===== */',
+    '#site-header,#site-footer{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;line-height:1.6;box-sizing:border-box}',
+    '#site-header *,#site-footer *,#site-header *::before,#site-footer *::before,#site-header *::after,#site-footer *::after{box-sizing:border-box;margin:0;padding:0}',
+    '#site-header img,#site-footer img{display:block;max-width:100%;border:0}',
+    '#site-header a,#site-footer a{color:inherit;text-decoration:none}',
+    '#site-header ul,#site-footer ul{list-style:none}',
+    '#site-header h1,#site-header h4,#site-footer h1,#site-footer h4{font-size:inherit;font-weight:inherit}',
+    '#site-header p,#site-footer p{margin:0}',
+    '#site-header button{font:inherit;cursor:pointer}',
+
     '/* ===== HEADER ===== */',
     '#site-header{background:#fff;border-bottom:1px solid var(--border,#e5e5e5);position:sticky;top:0;z-index:50;box-shadow:0 1px 3px rgba(0,0,0,.1)}',
     '#site-header .hf-container,#site-footer .hf-container{max-width:1200px;margin:0 auto;padding:0 1rem}',
