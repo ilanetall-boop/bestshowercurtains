@@ -36,7 +36,36 @@ window.SITE_CONFIG = {
     network: [
       { label: "Best Bath Rugs", href: "https://www.bestbathrugs.com" }
     ]
-  }
+  },
+  networkBanners: [
+    {
+      id: "best-bath-rugs",
+      domain: "bestbathrugs.com",
+      headline: "Transform Your Bathroom with Premium Bath Rugs",
+      description: "Soft, absorbent, and stylish — find the perfect bath rug for your bathroom. Expert reviews of memory foam, chenille, bamboo, and more.",
+      ctaText: "Browse Bath Rugs",
+      bannerImage: "images/banner-bath-rugs.jpg",
+      active: true
+    },
+    {
+      id: "best-air-fryers",
+      domain: "best-air-fryers.com",
+      headline: "Upgrade Your Kitchen with the Best Air Fryers",
+      description: "Crispy, healthy meals in minutes. Our experts tested the top air fryers so you don't have to.",
+      ctaText: "See Air Fryer Reviews",
+      bannerImage: "images/banner-air-fryers.jpg",
+      active: false
+    },
+    {
+      id: "best-ceiling-fans",
+      domain: "best-ceiling-fans.com",
+      headline: "Stay Cool with the Best Ceiling Fans",
+      description: "From modern smart fans to budget-friendly options. Find the perfect ceiling fan for every room.",
+      ctaText: "Explore Ceiling Fans",
+      bannerImage: "images/banner-ceiling-fans.jpg",
+      active: false
+    }
+  ]
 };
 
 // Set CSS variables immediately
