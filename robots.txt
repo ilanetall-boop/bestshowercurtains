@@ -1,0 +1,26 @@
+# Robots.txt for best-shower-curtains.com
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.best-shower-curtains.com/sitemap.xml
+
+# Block unnecessary files
+Disallow: /sw.js
+Disallow: /*.json$
+Disallow: /site.webmanifest
+
+# Block duplicate URLs (trailing slash versions)
+Disallow: /about/
+Disallow: /articles/
+Disallow: /comparisons/
+Disallow: /contact/
+Disallow: /privacy/
+Disallow: /terms/
+Disallow: /disclosure/
+
+# Block .html versions (canonical is without extension)
+Disallow: /*.html$
+
+# Block images from being indexed directly
+Disallow: /images/
