@@ -64,5 +64,16 @@
     "publishDate": "2026-02-02",
     "category": "Reviews",
     "featured": false
+  },
+  {
+    "title": "Shower Curtain vs Glass Door: Which Is Better for Your Bathroom?",
+    "slug": "shower-curtain-vs-glass-door",
+    "summary": "Complete comparison of shower curtains and glass doors covering cost, maintenance, installation, style, and practicality. Find the best option for your specific bathroom.",
+    "image": "images/bathroom-spa-ambiance-general.jpg",
+    "imageWidth": 400,
+    "imageHeight": 192,
+    "publishDate": "2026-02-03",
+    "category": "Comparisons",
+    "featured": false
   }
 ]
