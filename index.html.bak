@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PC9GTP4DCP"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-PC9GTP4DCP');
-  </script>
-
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Best Shower Curtains - Expert Reviews & Buying Guides 2026</title>
@@ -20,8 +11,8 @@
   <meta property="og:title" content="Best Shower Curtains - Expert Reviews & Buying Guides 2026">
   <meta property="og:description" content="Find the best shower curtains for your bathroom. Expert reviews, material comparisons, and style guides for waterproof, mildew-resistant shower curtains.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.best-shower-curtains.com/">
-  <link rel="canonical" href="https://www.best-shower-curtains.com/">
+  <meta property="og:url" content="https://www.bestshowercurtains.com/">
+  <link rel="canonical" href="https://www.bestshowercurtains.com/">
 
   <!-- OPTIMISATION LCP CRITIQUE -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -513,7 +504,7 @@
 
   <!-- Structured Data -->
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"Blog","name":"Best Shower Curtains","description":"Expert reviews, material comparisons, and style guides for waterproof, mildew-resistant shower curtains","url":"https://www.best-shower-curtains.com"}
+  {"@context":"https://schema.org","@type":"Blog","name":"Best Shower Curtains","description":"Expert reviews, material comparisons, and style guides for waterproof, mildew-resistant shower curtains","url":"https://www.bestshowercurtains.com"}
   </script>
 </head>
 <body>
