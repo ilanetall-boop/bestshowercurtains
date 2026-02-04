@@ -75,5 +75,16 @@
     "publishDate": "2026-02-03",
     "category": "Comparisons",
     "featured": false
+  },
+  {
+    "title": "Best Shower Curtains for Small Bathrooms (2026)",
+    "slug": "best-shower-curtains-for-small-bathrooms",
+    "summary": "Discover the 5 best shower curtains for small bathrooms that maximize light, create visual depth, and make tiny bathrooms feel larger. Expert-tested space-saving picks.",
+    "image": "images/bathroom-small-space-decor.jpg",
+    "imageWidth": 400,
+    "imageHeight": 192,
+    "publishDate": "2026-02-04",
+    "category": "Reviews",
+    "featured": false
   }
 ]
