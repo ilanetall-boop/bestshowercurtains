@@ -19,8 +19,47 @@
   <meta property="og:description" content="Learn about Best Shower Curtains - your trusted source for expert shower curtain reviews, material comparisons, and buying guides.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.best-shower-curtains.com/about">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="About Us - Best Shower Curtains">
+  <meta name="twitter:description" content="Learn about Best Shower Curtains - your trusted source for expert shower curtain reviews, material comparisons, and buying guides.">
   <link rel="canonical" href="https://www.best-shower-curtains.com/about">
   <script src="components/site-config.js"></script>
+
+  <!-- Organization Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Best Shower Curtains",
+    "url": "https://www.best-shower-curtains.com",
+    "description": "Your trusted resource for honest shower curtain reviews, material comparisons, and expert buying advice.",
+    "foundingDate": "2020",
+    "numberOfEmployees": {
+      "@type": "QuantitativeValue",
+      "minValue": 1,
+      "maxValue": 10
+    },
+    "sameAs": []
+  }
+  </script>
+
+  <!-- Person Schema - Lead Editor -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ilane Tall",
+    "jobTitle": "Lead Product Researcher & Editor",
+    "description": "Bathroom product specialist with 5+ years of experience testing shower curtains, analyzing water resistance, material durability, and mold prevention strategies.",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Best Shower Curtains",
+      "url": "https://www.best-shower-curtains.com"
+    },
+    "knowsAbout": ["shower curtains", "bathroom accessories", "water resistance testing", "mold prevention", "material durability", "bathroom design"]
+  }
+  </script>
+
   <style>
     :root{--primary:#00695C;--primary-light:#26A69A;--primary-dark:#004D40;--accent:#FF6F00;--accent-dark:#E65100;--bg-light:#F5F5F5;--text:#3e3e3e;--text-light:#666;--border:#e5e5e5}
     *{margin:0;padding:0;box-sizing:border-box}
@@ -39,6 +78,18 @@
     .value-item h4{font-weight:700;color:var(--primary);margin-bottom:.5rem}
     .value-item p{color:var(--text-light);margin:0;font-size:.9rem}
     @media(min-width:768px){.values-grid{grid-template-columns:1fr 1fr}}
+
+    /* Team Section Styles */
+    .team-section{margin-top:2.5rem;padding-top:2rem;border-top:1px solid var(--border)}
+    .team-member{display:flex;gap:1.5rem;background:var(--bg-light);border-radius:.75rem;padding:1.5rem;margin-top:1.5rem}
+    .team-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,var(--primary) 0%,var(--primary-light) 100%);display:flex;align-items:center;justify-content:center;color:#fff;font-size:2.5rem;font-weight:700;flex-shrink:0}
+    .team-info{flex:1}
+    .team-info h4{font-size:1.15rem;font-weight:700;color:var(--primary);margin-bottom:.25rem}
+    .team-info .job-title{color:var(--accent);font-weight:600;font-size:.9rem;margin-bottom:.75rem}
+    .team-info p{color:var(--text-light);font-size:.9rem;line-height:1.7;margin-bottom:.75rem}
+    .expertise-tags{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.75rem}
+    .expertise-tag{background:var(--primary);color:#fff;padding:.25rem .75rem;border-radius:1rem;font-size:.75rem;font-weight:500}
+    @media(max-width:600px){.team-member{flex-direction:column;align-items:center;text-align:center}.expertise-tags{justify-content:center}}
   </style>
 </head>
 <body>
@@ -77,6 +128,28 @@
           <div class="value-item">
             <h4>Always Updated</h4>
             <p>We regularly update our recommendations to reflect new products, price changes, and evolving customer feedback.</p>
+          </div>
+        </div>
+
+        <!-- Meet Our Team Section -->
+        <div class="team-section">
+          <h3>Meet Our Team</h3>
+          <p>Behind every review and guide is a dedicated team of bathroom product experts committed to helping you find the perfect shower curtain.</p>
+
+          <div class="team-member">
+            <div class="team-avatar">IT</div>
+            <div class="team-info">
+              <h4>Ilane Tall</h4>
+              <div class="job-title">Lead Product Researcher & Editor</div>
+              <p>With over 5 years of experience testing bathroom products, Ilane has personally analyzed more than 500 shower curtains to develop our comprehensive review methodology. Her expertise spans water resistance testing, material durability assessment, and mold prevention strategies.</p>
+              <p>Ilane leads our rigorous testing process, ensuring every recommendation meets our strict quality standards. Her hands-on approach includes real-world durability tests, fabric composition analysis, and long-term performance tracking.</p>
+              <div class="expertise-tags">
+                <span class="expertise-tag">Water Resistance Testing</span>
+                <span class="expertise-tag">Material Durability</span>
+                <span class="expertise-tag">Mold Prevention</span>
+                <span class="expertise-tag">Product Research</span>
+              </div>
+            </div>
           </div>
         </div>
 
