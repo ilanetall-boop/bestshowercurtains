@@ -25,8 +25,8 @@ window.SITE_CONFIG = {
     quickLinks: [
       { label: "All Articles", href: "articles" },
       { label: "Comparisons", href: "comparisons" },
-      { label: "About Us", href: "about" },
-      { label: "Contact", href: "contact" }
+      { label: "How We Research", href: "how-we-research" },
+      { label: "About Us", href: "about" }
     ],
     legal: [
       { label: "Privacy Policy", href: "privacy" },
