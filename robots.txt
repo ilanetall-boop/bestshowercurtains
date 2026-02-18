@@ -1,26 +1,13 @@
-# Robots.txt for best-shower-curtains.com
 User-agent: *
 Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
 
-# Sitemaps
-Sitemap: https://www.best-shower-curtains.com/sitemap.xml
+Sitemap: https://best-shower-curtains.com/sitemap.xml
 
-# Block unnecessary files
-Disallow: /sw.js
-Disallow: /*.json$
-Disallow: /site.webmanifest
+# Crawl delay (optional, in seconds)
+Crawl-delay: 1
 
-# Block duplicate URLs (trailing slash versions)
-Disallow: /about/
-Disallow: /articles/
-Disallow: /comparisons/
-Disallow: /contact/
-Disallow: /privacy/
-Disallow: /terms/
-Disallow: /disclosure/
-
-# Block .html versions (canonical is without extension)
-Disallow: /*.html$
-
-# Block images from being indexed directly
-Disallow: /images/
+# Request rate (pages per second)
+Request-rate: 10/1s
