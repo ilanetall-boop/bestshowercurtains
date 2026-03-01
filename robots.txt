@@ -4,10 +4,7 @@ Disallow: /admin/
 Disallow: /private/
 Disallow: /temp/
 
-Sitemap: https://best-shower-curtains.com/sitemap.xml
+Sitemap: https://www.best-shower-curtains.com/sitemap.xml
 
 # Crawl delay (optional, in seconds)
 Crawl-delay: 1
-
-# Request rate (pages per second)
-Request-rate: 10/1s

@@ -1,4 +1,6 @@
 # Redirect .html URLs to clean URLs (301 permanent)
+
+# Pages
 /index.html / 301
 /about.html /about 301
 /articles.html /articles 301
@@ -7,3 +9,19 @@
 /privacy.html /privacy 301
 /terms.html /terms 301
 /disclosure.html /disclosure 301
+/how-we-research.html /how-we-research 301
+
+# Articles
+/top-7-best-shower-curtains-of-2026.html /top-7-best-shower-curtains-of-2026 301
+/fabric-vs-vinyl-vs-peva-shower-curtains.html /fabric-vs-vinyl-vs-peva-shower-curtains 301
+/why-choosing-the-right-shower-curtain-matters.html /why-choosing-the-right-shower-curtain-matters 301
+/best-waterproof-shower-curtains.html /best-waterproof-shower-curtains 301
+/how-to-clean-shower-curtain.html /how-to-clean-shower-curtain 301
+/best-mildew-resistant-shower-curtains.html /best-mildew-resistant-shower-curtains 301
+/shower-curtain-vs-glass-door.html /shower-curtain-vs-glass-door 301
+/best-shower-curtains-for-small-bathrooms.html /best-shower-curtains-for-small-bathrooms 301
+/best-fabric-shower-curtains.html /best-fabric-shower-curtains 301
+/best-shower-curtains-mold-prevention.html /best-shower-curtains-mold-prevention 301
+/best-shower-curtain-liners.html /best-shower-curtain-liners 301
+/how-to-choose-the-right-shower-curtain-size.html /how-to-choose-the-right-shower-curtain-size 301
+/best-luxury-hotel-style-shower-curtains.html /best-luxury-hotel-style-shower-curtains 301
