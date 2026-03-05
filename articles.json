@@ -1,5 +1,17 @@
 [
   {
+    "title": "Best Shower Curtains for Small Bathrooms & Tight Spaces (2026)",
+    "slug": "best-shower-curtains-for-small-bathrooms",
+    "summary": "5 best shower curtains for small bathrooms tested for fit, style, and space-saving. Stall sizes, short lengths, and waffle weaves from $13.99. Updated March 2026.",
+    "image": "images/hero-best-shower-curtains-for-small-bathrooms.png",
+    "imageWidth": 400,
+    "imageHeight": 192,
+    "publishDate": "2026-03-06",
+    "category": "Reviews",
+    "template": "roundup",
+    "featured": true
+  },
+  {
     "title": "Best Weighted Shower Curtains That Stay in Place in 2026",
     "slug": "best-weighted-shower-curtains",
     "summary": "5 best weighted shower curtains tested for anti-billowing performance. Heavy-duty PEVA liners with weighted stones and magnets from $9.99. Updated March 2026.",
@@ -13,7 +25,7 @@
   {
     "title": "Best Patterned & Decorative Shower Curtains for Style (2026)",
     "slug": "best-patterned-decorative-shower-curtains",
-    "summary": "The best patterned and decorative shower curtains of 2026 — from marble floral to ocean turtles to geometric ombre. 6 top fabric picks tested for style, waterproofing, and washability. From $14.98.",
+    "summary": "The best patterned and decorative shower curtains of 2026 \u00e2\u20ac\u201d from marble floral to ocean turtles to geometric ombre. 6 top fabric picks tested for style, waterproofing, and washability. From $14.98.",
     "image": "images/hero-best-patterned-decorative-shower-curtains.png",
     "imageWidth": 400,
     "imageHeight": 192,
@@ -23,9 +35,9 @@
     "featured": true
   },
   {
-    "title": "6 Best PEVA Shower Curtain Liners (2026) — Waterproof & Non-Toxic",
+    "title": "6 Best PEVA Shower Curtain Liners (2026) \u00e2\u20ac\u201d Waterproof & Non-Toxic",
     "slug": "best-peva-shower-curtain-liners",
-    "summary": "PEVA shower curtain liners tested and ranked. Our top 6 picks for waterproofing, odor resistance, and durability — from $6.99 to $19.99. Updated March 2026.",
+    "summary": "PEVA shower curtain liners tested and ranked. Our top 6 picks for waterproofing, odor resistance, and durability \u00e2\u20ac\u201d from $6.99 to $19.99. Updated March 2026.",
     "image": "images/hero-best-peva-shower-curtain-liners.png",
     "imageWidth": 400,
     "imageHeight": 192,
@@ -174,17 +186,6 @@
     "imageHeight": 192,
     "publishDate": "2026-02-03",
     "category": "Comparisons",
-    "featured": false
-  },
-  {
-    "title": "Best Shower Curtains for Small Bathrooms (2026)",
-    "slug": "best-shower-curtains-for-small-bathrooms",
-    "summary": "Discover the 5 best shower curtains for small bathrooms that maximize light, create visual depth, and make tiny bathrooms feel larger. Expert-tested space-saving picks.",
-    "image": "images/hero-best-shower-curtains-for-small-bathrooms.png",
-    "imageWidth": 400,
-    "imageHeight": 192,
-    "publishDate": "2026-02-04",
-    "category": "Reviews",
     "featured": false
   }
 ]
