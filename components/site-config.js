@@ -6,6 +6,7 @@ window.SITE_CONFIG = {
   name: "Best Shower Curtains",
   tagline: "Your expert guide to stylish and functional shower curtains",
   logo: "/shower-curtains-logo.svg",
+  newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   colors: {
     primary: "#00695C",
     primaryLight: "#26A69A",
@@ -34,7 +35,8 @@ window.SITE_CONFIG = {
       { label: "Affiliate Disclosure", href: "disclosure" }
     ],
     network: [
-      { label: "Best Bath Rugs", href: "https://www.bestbathrugs.com" }
+      { label: "Best Bath Rugs", href: "https://www.bestbathrugs.com" },
+      { label: "Best Toilet Seats", href: "https://www.besttoiletseats.com" }
     ]
   },
   networkBanners: [
@@ -63,6 +65,15 @@ window.SITE_CONFIG = {
       description: "From modern smart fans to budget-friendly options. Find the perfect ceiling fan for every room.",
       ctaText: "Explore Ceiling Fans",
       bannerImage: "images/banner-ceiling-fans.jpg",
+      active: false
+    },
+    {
+      id: "best-toilet-seats",
+      domain: "besttoiletseats.com",
+      headline: "Find Your Perfect Toilet Seat",
+      description: "Expert reviews of the best toilet seats for comfort, durability, and style. From heated seats to soft-close options.",
+      ctaText: "Explore Toilet Seats",
+      bannerImage: "images/banner-toilet-seats.jpg",
       active: false
     }
   ]
