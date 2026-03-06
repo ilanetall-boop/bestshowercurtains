@@ -50,31 +50,13 @@ window.SITE_CONFIG = {
       active: true
     },
     {
-      id: "best-air-fryers",
-      domain: "best-air-fryers.com",
-      headline: "Upgrade Your Kitchen with the Best Air Fryers",
-      description: "Crispy, healthy meals in minutes. Our experts tested the top air fryers so you don't have to.",
-      ctaText: "See Air Fryer Reviews",
-      bannerImage: "images/banner-air-fryers.jpg",
-      active: false
-    },
-    {
-      id: "best-ceiling-fans",
-      domain: "best-ceiling-fans.com",
-      headline: "Stay Cool with the Best Ceiling Fans",
-      description: "From modern smart fans to budget-friendly options. Find the perfect ceiling fan for every room.",
-      ctaText: "Explore Ceiling Fans",
-      bannerImage: "images/banner-ceiling-fans.jpg",
-      active: false
-    },
-    {
       id: "best-toilet-seats",
       domain: "besttoiletseats.com",
       headline: "Find Your Perfect Toilet Seat",
       description: "Expert reviews of the best toilet seats for comfort, durability, and style. From heated seats to soft-close options.",
       ctaText: "Explore Toilet Seats",
       bannerImage: "images/banner-toilet-seats.jpg",
-      active: false
+      active: true
     }
   ]
 };
