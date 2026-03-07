@@ -37,7 +37,8 @@ window.SITE_CONFIG = {
     ],
     network: [
       { label: "Best Bath Rugs", href: "https://www.bestbathrugs.com" },
-      { label: "Best Toilet Seats", href: "https://www.besttoiletseats.com" }
+      { label: "Best Toilet Seats", href: "https://www.besttoiletseats.com" },
+      { label: "Best Bathroom Vanities", href: "https://best-bathroom-vanities.com" }
     ]
   },
   networkBanners: [
@@ -57,6 +58,15 @@ window.SITE_CONFIG = {
       description: "Expert reviews of the best toilet seats for comfort, durability, and style. From heated seats to soft-close options.",
       ctaText: "Explore Toilet Seats",
       bannerImage: "images/banner-toilet-seats.jpg",
+      active: true
+    },
+    {
+      id: "best-bathroom-vanities",
+      domain: "best-bathroom-vanities.com",
+      headline: "Shopping for a Bathroom Vanity?",
+      description: "Expert reviews of the best bathroom vanities — from floating modern designs to farmhouse styles. Find the perfect vanity for your renovation.",
+      ctaText: "Browse Bathroom Vanities",
+      bannerImage: "images/banner-bathroom-vanities.jpg",
       active: true
     }
   ]
