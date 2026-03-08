@@ -50,25 +50,25 @@
   {
     "title": "Best Patterned & Decorative Shower Curtains for Style (2026)",
     "slug": "best-patterned-decorative-shower-curtains",
-    "summary": "The best patterned and decorative shower curtains of 2026 \u00e2\u20ac\u201d from marble floral to ocean turtles to geometric ombre. 6 top fabric picks tested for style, waterproofing, and washability. From $14.98.",
+    "summary": "The best patterned and decorative shower curtains of 2026 â€” from marble floral to ocean turtles to geometric ombre. 6 top fabric picks tested for style, waterproofing, and washability. From $14.98.",
     "image": "images/hero-best-patterned-decorative-shower-curtains.png",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-03",
     "category": "Reviews",
     "template": "roundup",
-    "featured": true
+    "featured": false
   },
   {
-    "title": "6 Best PEVA Shower Curtain Liners (2026) \u00e2\u20ac\u201d Waterproof & Non-Toxic",
+    "title": "6 Best PEVA Shower Curtain Liners (2026) â€” Waterproof & Non-Toxic",
     "slug": "best-peva-shower-curtain-liners",
-    "summary": "PEVA shower curtain liners tested and ranked. Our top 6 picks for waterproofing, odor resistance, and durability \u00e2\u20ac\u201d from $6.99 to $19.99. Updated March 2026.",
+    "summary": "PEVA shower curtain liners tested and ranked. Our top 6 picks for waterproofing, odor resistance, and durability â€” from $6.99 to $19.99. Updated March 2026.",
     "image": "images/hero-best-peva-shower-curtain-liners.png",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-03",
     "category": "Reviews",
-    "featured": true
+    "featured": false
   },
   {
     "title": "Cotton vs Polyester Shower Curtains: Comfort vs Durability (2026)",
@@ -79,7 +79,7 @@
     "imageHeight": 192,
     "publishDate": "2026-03-02",
     "category": "Comparisons",
-    "featured": true
+    "featured": false
   },
   {
     "title": "5 Best Luxury Hotel-Style Shower Curtains for a Spa Feel (2026)",
@@ -90,7 +90,7 @@
     "imageHeight": 192,
     "publishDate": "2026-03-01",
     "category": "Reviews",
-    "featured": true
+    "featured": false
   },
   {
     "title": "How to Choose the Right Shower Curtain Size for Any Bathroom",
@@ -101,7 +101,7 @@
     "imageHeight": 192,
     "publishDate": "2026-02-24",
     "category": "Guides",
-    "featured": true
+    "featured": false
   },
   {
     "title": "Best Shower Curtain Liners to Protect Your Bathroom Floor",
@@ -112,7 +112,7 @@
     "imageHeight": 192,
     "publishDate": "2026-02-24",
     "category": "Reviews",
-    "featured": true
+    "featured": false
   },
   {
     "title": "Best Fabric Shower Curtains: Premium Options for Luxury Bathrooms (2026)",
@@ -123,7 +123,7 @@
     "imageHeight": 192,
     "publishDate": "2026-02-17",
     "category": "Reviews",
-    "featured": true
+    "featured": false
   },
   {
     "title": "Best Shower Curtains for Mold Prevention: Expert Guide (2026)",
@@ -134,18 +134,18 @@
     "imageHeight": 192,
     "publishDate": "2026-02-16",
     "category": "Guides",
-    "featured": true
+    "featured": false
   },
   {
-    "title": "Top 7 Best Shower Curtains of 2026: Complete Buyer's Guide",
-    "slug": "top-7-best-shower-curtains-of-2026",
-    "summary": "We tested 30+ shower curtains to find the 7 best in 2026. From budget PEVA liners to luxury hotel-style fabric curtains, find your perfect match.",
-    "image": "images/top-7-best-shower-curtains-2026-hero.jpg",
+    "title": "Shower Curtain vs Glass Door: Which Is Better for Your Bathroom?",
+    "slug": "shower-curtain-vs-glass-door",
+    "summary": "Complete comparison of shower curtains and glass doors covering cost, maintenance, installation, style, and practicality. Find the best option for your specific bathroom.",
+    "image": "images/shower-curtain-vs-glass-door-which-is-better-for-your-bathroom-hero.jpg",
     "imageWidth": 400,
     "imageHeight": 192,
-    "publishDate": "2026-02-01",
-    "category": "Reviews",
-    "featured": true
+    "publishDate": "2026-02-03",
+    "category": "Comparisons",
+    "featured": false
   },
   {
     "title": "Fabric vs Vinyl vs PEVA Shower Curtains: Which Material Is Best?",
@@ -203,14 +203,14 @@
     "featured": false
   },
   {
-    "title": "Shower Curtain vs Glass Door: Which Is Better for Your Bathroom?",
-    "slug": "shower-curtain-vs-glass-door",
-    "summary": "Complete comparison of shower curtains and glass doors covering cost, maintenance, installation, style, and practicality. Find the best option for your specific bathroom.",
-    "image": "images/shower-curtain-vs-glass-door-which-is-better-for-your-bathroom-hero.jpg",
+    "title": "Top 7 Best Shower Curtains of 2026: Complete Buyer's Guide",
+    "slug": "top-7-best-shower-curtains-of-2026",
+    "summary": "We tested 30+ shower curtains to find the 7 best in 2026. From budget PEVA liners to luxury hotel-style fabric curtains, find your perfect match.",
+    "image": "images/top-7-best-shower-curtains-2026-hero.jpg",
     "imageWidth": 400,
     "imageHeight": 192,
-    "publishDate": "2026-02-03",
-    "category": "Comparisons",
+    "publishDate": "2026-02-01",
+    "category": "Reviews",
     "featured": false
   }
 ]
