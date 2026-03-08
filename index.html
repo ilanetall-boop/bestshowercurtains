@@ -796,7 +796,7 @@
     }
 
     // Load and render everything
-    fetch('articles.json')
+    fetch('articles.json?v=2')
       .then(r => r.json())
       .then(articles => {
         // Sort by date descending
