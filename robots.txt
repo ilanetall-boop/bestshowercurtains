@@ -1,10 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /admin/
-Disallow: /private/
-Disallow: /temp/
 
 Sitemap: https://best-shower-curtains.com/sitemap.xml
-
-# Crawl delay (optional, in seconds)
-Crawl-delay: 1
