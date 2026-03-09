@@ -212,5 +212,16 @@
     "publishDate": "2026-02-01",
     "category": "Reviews",
     "featured": false
+  },
+  {
+    "title": "6 Best Extra Long Shower Curtains for Tall Showers (2026)",
+    "slug": "best-extra-long-shower-curtains",
+    "summary": "Need a shower curtain longer than 72 inches? We tested 12+ extra long options (72x84 and 72x78) and found 6 that actually prevent water leaks.",
+    "image": "images/hero-best-extra-long-shower-curtains.png",
+    "imageWidth": 400,
+    "imageHeight": 192,
+    "publishDate": "2026-03-09",
+    "category": "Reviews",
+    "featured": false
   }
 ]
