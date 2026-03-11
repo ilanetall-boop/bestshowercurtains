@@ -45,7 +45,7 @@ window.SITE_CONFIG = {
   networkBanners: [
     {
       id: "best-bath-rugs",
-      domain: "bestbathrugs.com",
+      domain: "www.bestbathrugs.com",
       headline: "Transform Your Bathroom with Premium Bath Rugs",
       description: "Soft, absorbent, and stylish — find the perfect bath rug for your bathroom. Expert reviews of memory foam, chenille, bamboo, and more.",
       ctaText: "Browse Bath Rugs",
