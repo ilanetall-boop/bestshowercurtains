@@ -223,5 +223,16 @@
     "publishDate": "2026-03-09",
     "category": "Reviews",
     "featured": false
+  },
+  {
+    "title": "6 Best Shower Curtains for Kids: Fun & Durable (2026)",
+    "slug": "best-shower-curtains-for-kids",
+    "summary": "We tested 12+ kids shower curtains for fun designs, durability, and mold resistance. Our top 6 picks from $10.99 — parent-approved and kid-loved.",
+    "image": "images/hero-best-shower-curtains-for-kids.png",
+    "imageWidth": 400,
+    "imageHeight": 192,
+    "publishDate": "2026-03-10",
+    "category": "Reviews",
+    "featured": false
   }
 ]
