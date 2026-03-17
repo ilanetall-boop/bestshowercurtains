@@ -16,7 +16,7 @@ window.SITE_CONFIG = {
     accentDark: "#E65100"
   },
   nav: [
-    { label: "Home", href: "index" },
+    { label: "Home", href: "/" },
     { label: "Articles", href: "articles" },
     { label: "Comparisons", href: "comparisons" },
     { label: "About", href: "about" },
@@ -37,9 +37,9 @@ window.SITE_CONFIG = {
     ],
     network: [
       { label: "Best Bath Rugs", href: "https://www.bestbathrugs.com" },
-      { label: "Best Toilet Seats", href: "https://www.besttoiletseats.com" },
-      { label: "Best Bathroom Vanities", href: "https://www.bestbathroomvanities.com" },
-      { label: "Best Shower Heads", href: "https://www.best-shower-heads.com" }
+      { label: "Best Toilet Seats", href: "https://besttoiletseats.com" },
+      { label: "Best Bathroom Vanities", href: "https://bestbathroomvanities.com" },
+      { label: "Best Shower Heads", href: "https://best-shower-heads.com" }
     ]
   },
   networkBanners: [
