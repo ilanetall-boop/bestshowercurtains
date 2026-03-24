@@ -234,5 +234,15 @@
     "publishDate": "2026-03-10",
     "category": "Reviews",
     "featured": false
+  },
+  {
+    "slug": "best-waffle-weave-shower-curtains",
+    "title": "7 Best Waffle Weave Shower Curtains for a Spa-Like Bathroom (2026)",
+    "summary": "Waffle weave shower curtains bring spa luxury to your bathroom. We tested 7 top picks for texture, waterproofing, and style from $13 to $40.",
+    "image": "images/hero-best-waffle-weave-shower-curtains.png",
+    "publishDate": "2026-03-23",
+    "template": "roundup",
+    "category": "Waffle Weave",
+    "featured": true
   }
 ]
