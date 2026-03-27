@@ -58,7 +58,6 @@ window.SITE_CONFIG = {
       headline: "Find Your Perfect Toilet Seat",
       description: "Expert reviews of the best toilet seats for comfort, durability, and style. From heated seats to soft-close options.",
       ctaText: "Explore Toilet Seats",
-      bannerImage: "images/banner-toilet-seats.jpg",
       active: true
     },
     {
@@ -67,7 +66,6 @@ window.SITE_CONFIG = {
       headline: "Shopping for a Bathroom Vanity?",
       description: "Expert reviews of the best bathroom vanities — from floating modern designs to farmhouse styles. Find the perfect vanity for your renovation.",
       ctaText: "Browse Bathroom Vanities",
-      bannerImage: "images/banner-bathroom-vanities.jpg",
       active: true
     },
     {
@@ -76,7 +74,6 @@ window.SITE_CONFIG = {
       headline: "Upgrade Your Shower Head?",
       description: "From rainfall to high-pressure designs. Expert reviews of the best shower heads for an amazing shower experience.",
       ctaText: "Browse Shower Heads",
-      bannerImage: "images/banner-shower-heads.jpg",
       active: true
     }
   ]
