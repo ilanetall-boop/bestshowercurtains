@@ -109,6 +109,25 @@
         .amazon-box { background: linear-gradient(135deg, #ff9900 0%, #ffb84d 100%); border-radius: 0.5rem; padding: 1rem 1.5rem; margin: 1.5rem 0; text-align: center; }
         .amazon-box a { color: #232f3e; font-weight: bold; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; }
         .amazon-box a:hover { text-decoration: underline; }
+    
+        /* Author Box */
+        .author-box {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin: 1rem 0;
+            padding: 1rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        .author-box img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+        .author-box strong { color: var(--primary-dark, #004D40); }
+        .author-box p { font-size: 0.85rem; color: #666; margin: 0; }
     </style>
 
     <!-- SEO Meta Tags -->
@@ -508,14 +527,13 @@
             <!-- Hero Image -->
             <img src="images/hero-best-waterproof-shower-curtains.webp" alt="Collection of the best waterproof shower curtains displayed in a modern bathroom setting with water droplets demonstrating waterproof performance" style="width: 100%;" loading="eager" decoding="async">
             <p class="img-caption">Our expert picks for the best waterproof shower curtains of 2026 — tested for real-world water containment, material durability, and value</p>
-<!-- Author Block -->
-<div style="display: flex; align-items: center; gap: 1rem; padding: 1.5rem; background: #f8f8f8; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #FF6F00;">
-  <img src="images/ilane-tall-80x80.jpg" alt="Ilane Tall" style="width: 64px; height: 64px; border-radius: 50%; object-fit: cover;" onerror="this.style.display='none'">
-  <div>
-    <p style="margin: 0; font-weight: 600; color: #00695C;">Ilane Tall</p>
-    <p style="margin: 0; font-size: 0.875rem; color: #666;">Product Researcher | Specializing in bathroom products and home textiles</p>
-    <p style="margin: 0.5rem 0 0 0; font-size: 0.8rem; color: #888;">All recommendations based on rigorous product research and customer review analysis.</p>
-  </div>
+<!-- Author Box -->
+<div class="author-box">
+    <img src="images/ilane-tall-80x80.jpg" alt="Ilane Tall" onerror="this.style.display='none'">
+    <div>
+        <strong>Ilane Tall</strong>
+        <p>Product Researcher | Specializing in bathroom products and home textiles</p>
+    </div>
 </div>
 
 

@@ -113,6 +113,25 @@
         .option-icon { width: 40px; height: 40px; background-color: var(--primary); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-size: 1.25rem; }
 
         .winner-badge { background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%); color: #78350f; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: bold; display: inline-block; margin-bottom: 0.5rem; }
+    
+        /* Author Box */
+        .author-box {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin: 1rem 0;
+            padding: 1rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        .author-box img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+        .author-box strong { color: var(--primary-dark, #004D40); }
+        .author-box p { font-size: 0.85rem; color: #666; margin: 0; }
     </style>
 
     <!-- SEO Meta Tags -->
@@ -197,14 +216,13 @@
             <!-- Hero Image -->
             <img src="images/shower-curtain-vs-glass-door-which-is-better-for-your-bathroom-hero.jpg" alt="Modern bathroom showcasing both shower curtain and glass door design options for comparison" style="width: 100%;" loading="eager" decoding="async">
             <p class="img-caption">The choice between a shower curtain and glass door affects your bathroom's appearance, functionality, maintenance requirements, and budget</p>
-<!-- Author Block -->
-<div style="display: flex; align-items: center; gap: 1rem; padding: 1.5rem; background: #f8f8f8; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #FF6F00;">
-  <img src="images/ilane-tall-80x80.jpg" alt="Ilane Tall" style="width: 64px; height: 64px; border-radius: 50%; object-fit: cover;" onerror="this.style.display='none'">
-  <div>
-    <p style="margin: 0; font-weight: 600; color: #00695C;">Ilane Tall</p>
-    <p style="margin: 0; font-size: 0.875rem; color: #666;">Product Researcher | Specializing in bathroom products and home textiles</p>
-    <p style="margin: 0.5rem 0 0 0; font-size: 0.8rem; color: #888;">All recommendations based on rigorous product research and customer review analysis.</p>
-  </div>
+<!-- Author Box -->
+<div class="author-box">
+    <img src="images/ilane-tall-80x80.jpg" alt="Ilane Tall" onerror="this.style.display='none'">
+    <div>
+        <strong>Ilane Tall</strong>
+        <p>Product Researcher | Specializing in bathroom products and home textiles</p>
+    </div>
 </div>
 
 
