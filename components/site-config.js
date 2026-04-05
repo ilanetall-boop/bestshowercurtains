@@ -5,7 +5,7 @@
 window.SITE_CONFIG = {
   name: "Best Shower Curtains",
   tagline: "Your expert guide to stylish and functional shower curtains",
-  logo: "/shower-curtains-logo.svg",
+  logo: "/shower-curtains-logo.svg?v=2",
   newsletterUrl: "https://script.google.com/macros/s/AKfycbxhUcinCHfLDqvtL6ko2bxreGTOv4yOkGPrO_hUC7v9AVXvjI0cAG9k2nVXKAkbN8kV/exec",
   gaId: "G-PC9GTP4DCP",
   colors: {
