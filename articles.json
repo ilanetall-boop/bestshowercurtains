@@ -16,7 +16,7 @@
     "title": "Best Shower Curtain Hooks and Rings (2026)",
     "slug": "best-shower-curtain-hooks-and-rings",
     "summary": "5 best shower curtain hooks and rings tested for glide, rust resistance, and style. From $6.99 stainless steel to decorative double-hooks. Updated March 2026.",
-    "image": "images/hero-best-shower-curtain-hooks-and-rings.png",
+    "image": "images/hero-best-shower-curtain-hooks-and-rings.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-08",
@@ -42,7 +42,7 @@
     "title": "Best Shower Curtains for Small Bathrooms & Tight Spaces (2026)",
     "slug": "best-shower-curtains-for-small-bathrooms",
     "summary": "5 best shower curtains for small bathrooms tested for fit, style, and space-saving. Stall sizes, short lengths, and waffle weaves from $13.99. Updated March 2026.",
-    "image": "images/hero-best-shower-curtains-for-small-bathrooms.png",
+    "image": "images/hero-best-shower-curtains-for-small-bathrooms.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-06",
@@ -55,7 +55,7 @@
     "title": "Best Weighted Shower Curtains That Stay in Place in 2026",
     "slug": "best-weighted-shower-curtains",
     "summary": "5 best weighted shower curtains tested for anti-billowing performance. Heavy-duty PEVA liners with weighted stones and magnets from $9.99. Updated March 2026.",
-    "image": "images/hero-best-weighted-shower-curtains.png",
+    "image": "images/hero-best-weighted-shower-curtains.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-04",
@@ -68,7 +68,7 @@
     "title": "Best Patterned & Decorative Shower Curtains for Style (2026)",
     "slug": "best-patterned-decorative-shower-curtains",
     "summary": "The best patterned and decorative shower curtains of 2026 — from marble floral to ocean turtles to geometric ombre. 6 top fabric picks tested for style, waterproofing, and washability. From $14.98.",
-    "image": "images/hero-best-patterned-decorative-shower-curtains.png",
+    "image": "images/hero-best-patterned-decorative-shower-curtains.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-03",
@@ -81,37 +81,40 @@
     "title": "6 Best PEVA Shower Curtain Liners (2026) — Waterproof & Non-Toxic",
     "slug": "best-peva-shower-curtain-liners",
     "summary": "PEVA shower curtain liners tested and ranked. Our top 6 picks for waterproofing, odor resistance, and durability — from $6.99 to $19.99. Updated March 2026.",
-    "image": "images/hero-best-peva-shower-curtain-liners.png",
+    "image": "images/hero-best-peva-shower-curtain-liners.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-03",
     "category": "Reviews",
     "featured": false,
-    "description": "PEVA shower curtain liners tested and ranked. Our top 6 picks for waterproofing, odor resistance, and durability — from $6.99 to $19.99. Updated March 2026."
+    "description": "PEVA shower curtain liners tested and ranked. Our top 6 picks for waterproofing, odor resistance, and durability — from $6.99 to $19.99. Updated March 2026.",
+    "template": "roundup"
   },
   {
     "title": "Cotton vs Polyester Shower Curtains: Comfort vs Durability (2026)",
     "slug": "cotton-vs-polyester-shower-curtains",
     "summary": "Cotton vs polyester shower curtains compared across comfort, durability, waterproofing, maintenance, mold resistance, eco-friendliness, and price. Find the best fabric for your bathroom.",
-    "image": "images/hero-cotton-vs-polyester-shower-curtains.png",
+    "image": "images/hero-cotton-vs-polyester-shower-curtains.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-02",
     "category": "Comparisons",
     "featured": false,
-    "description": "Cotton vs polyester shower curtains compared across comfort, durability, waterproofing, maintenance, mold resistance, eco-friendliness, and price. Find the best fabric for your bathroom."
+    "description": "Cotton vs polyester shower curtains compared across comfort, durability, waterproofing, maintenance, mold resistance, eco-friendliness, and price. Find the best fabric for your bathroom.",
+    "template": "versus"
   },
   {
     "title": "5 Best Luxury Hotel-Style Shower Curtains for a Spa Feel (2026)",
     "slug": "best-luxury-hotel-style-shower-curtains",
     "summary": "Transform your bathroom into a five-star retreat with our top luxury hotel-style shower curtains. From waffle weave to premium microfiber, find the perfect spa-quality curtain.",
-    "image": "images/hero-best-luxury-hotel-style-shower-curtains.jpg",
+    "image": "images/hero-best-luxury-hotel-style-shower-curtains.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-01",
     "category": "Reviews",
     "featured": false,
-    "description": "Transform your bathroom into a five-star retreat with our top luxury hotel-style shower curtains. From waffle weave to premium microfiber, find the perfect spa-quality curtain."
+    "description": "Transform your bathroom into a five-star retreat with our top luxury hotel-style shower curtains. From waffle weave to premium microfiber, find the perfect spa-quality curtain.",
+    "template": "roundup"
   },
   {
     "title": "How to Choose the Right Shower Curtain Size for Any Bathroom",
@@ -123,31 +126,34 @@
     "publishDate": "2026-02-24",
     "category": "Guides",
     "featured": false,
-    "description": "Complete guide to shower curtain sizes. Learn how to measure your shower, choose standard vs extra-long vs stall sizes, and avoid common sizing mistakes."
+    "description": "Complete guide to shower curtain sizes. Learn how to measure your shower, choose standard vs extra-long vs stall sizes, and avoid common sizing mistakes.",
+    "template": "how-to"
   },
   {
     "title": "Best Shower Curtain Liners to Protect Your Bathroom Floor",
     "slug": "best-shower-curtain-liners",
     "summary": "Find the best shower curtain liners to protect your bathroom floor. Expert reviews of PEVA, fabric, and plastic liners with magnets, mildew resistance, and more.",
-    "image": "images/best-shower-curtain-liners-to-protect-your-bathroom-floor-hero.jpg",
+    "image": "images/best-shower-curtain-liners-to-protect-your-bathroom-floor-hero.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-02-24",
     "category": "Reviews",
     "featured": false,
-    "description": "Find the best shower curtain liners to protect your bathroom floor. Expert reviews of PEVA, fabric, and plastic liners with magnets, mildew resistance, and more."
+    "description": "Find the best shower curtain liners to protect your bathroom floor. Expert reviews of PEVA, fabric, and plastic liners with magnets, mildew resistance, and more.",
+    "template": "roundup"
   },
   {
     "title": "Best Fabric Shower Curtains: Premium Options for Luxury Bathrooms (2026)",
     "slug": "best-fabric-shower-curtains",
     "summary": "Discover the best fabric shower curtains for your bathroom. Compare luxury options, waterproof fabrics & stylish designs.",
-    "image": "images/hero-best-fabric-shower-curtains.jpg",
+    "image": "images/hero-best-fabric-shower-curtains.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-02-17",
     "category": "Reviews",
     "featured": false,
-    "description": "Discover the best fabric shower curtains for your bathroom. Compare luxury options, waterproof fabrics & stylish designs."
+    "description": "Discover the best fabric shower curtains for your bathroom. Compare luxury options, waterproof fabrics & stylish designs.",
+    "template": "roundup"
   },
   {
     "title": "Best Shower Curtains for Mold Prevention: Expert Guide (2026)",
@@ -159,19 +165,21 @@
     "publishDate": "2026-02-16",
     "category": "Guides",
     "featured": false,
-    "description": "Expert-reviewed mold-resistant shower curtains with antimicrobial technology. Compare PEVA, fabric, and vinyl options with real products and CDC-backed prevention tips."
+    "description": "Expert-reviewed mold-resistant shower curtains with antimicrobial technology. Compare PEVA, fabric, and vinyl options with real products and CDC-backed prevention tips.",
+    "template": "roundup"
   },
   {
     "title": "Shower Curtain vs Glass Door: Which Is Better for Your Bathroom?",
     "slug": "shower-curtain-vs-glass-door",
     "summary": "Complete comparison of shower curtains and glass doors covering cost, maintenance, installation, style, and practicality. Find the best option for your specific bathroom.",
-    "image": "images/shower-curtain-vs-glass-door-which-is-better-for-your-bathroom-hero.jpg",
+    "image": "images/shower-curtain-vs-glass-door-which-is-better-for-your-bathroom-hero.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-02-03",
     "category": "Comparisons",
     "featured": false,
-    "description": "Complete comparison of shower curtains and glass doors covering cost, maintenance, installation, style, and practicality. Find the best option for your specific bathroom."
+    "description": "Complete comparison of shower curtains and glass doors covering cost, maintenance, installation, style, and practicality. Find the best option for your specific bathroom.",
+    "template": "versus"
   },
   {
     "title": "Fabric vs Vinyl vs PEVA Shower Curtains: Which Material Is Best?",
@@ -183,7 +191,8 @@
     "publishDate": "2026-02-02",
     "category": "Comparisons",
     "featured": false,
-    "description": "In-depth comparison of fabric, vinyl, and PEVA shower curtain materials. Discover which type is best for durability, safety, style, and value."
+    "description": "In-depth comparison of fabric, vinyl, and PEVA shower curtain materials. Discover which type is best for durability, safety, style, and value.",
+    "template": "versus"
   },
   {
     "title": "Why Choosing the Right Shower Curtain Matters More Than You Think",
@@ -195,7 +204,8 @@
     "publishDate": "2026-02-02",
     "category": "Guides",
     "featured": false,
-    "description": "Your shower curtain choice impacts health, home value, and daily comfort. Learn about mold risks, toxic materials, and how to choose wisely."
+    "description": "Your shower curtain choice impacts health, home value, and daily comfort. Learn about mold risks, toxic materials, and how to choose wisely.",
+    "template": "guide"
   },
   {
     "title": "Best Waterproof Shower Curtains That Actually Keep Water In",
@@ -207,19 +217,21 @@
     "publishDate": "2026-02-02",
     "category": "Reviews",
     "featured": false,
-    "description": "Discover the 5 best waterproof shower curtains of 2026 that actually keep water inside the tub. Expert-tested picks for every budget."
+    "description": "Discover the 5 best waterproof shower curtains of 2026 that actually keep water inside the tub. Expert-tested picks for every budget.",
+    "template": "roundup"
   },
   {
     "title": "How to Clean and Maintain Your Shower Curtain (Complete Guide)",
     "slug": "how-to-clean-shower-curtain",
     "summary": "Step-by-step instructions for cleaning fabric, vinyl, and PEVA shower curtains. Plus maintenance tips to prevent mold and extend curtain life.",
-    "image": "images/hero-how-to-clean-shower-curtain.png",
+    "image": "images/hero-how-to-clean-shower-curtain.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-02-02",
     "category": "Guides",
     "featured": false,
-    "description": "Step-by-step instructions for cleaning fabric, vinyl, and PEVA shower curtains. Plus maintenance tips to prevent mold and extend curtain life."
+    "description": "Step-by-step instructions for cleaning fabric, vinyl, and PEVA shower curtains. Plus maintenance tips to prevent mold and extend curtain life.",
+    "template": "how-to"
   },
   {
     "title": "Best Mildew-Resistant Shower Curtains for Humid Bathrooms",
@@ -231,49 +243,53 @@
     "publishDate": "2026-02-02",
     "category": "Reviews",
     "featured": false,
-    "description": "The 5 best mildew-resistant shower curtains for humid bathrooms in 2026. Expert-tested picks that fight mold and stay fresh longer."
+    "description": "The 5 best mildew-resistant shower curtains for humid bathrooms in 2026. Expert-tested picks that fight mold and stay fresh longer.",
+    "template": "roundup"
   },
   {
     "title": "Top 7 Best Shower Curtains of 2026: Complete Buyer's Guide",
     "slug": "top-7-best-shower-curtains-of-2026",
     "summary": "We tested 30+ shower curtains to find the 7 best in 2026. From budget PEVA liners to luxury hotel-style fabric curtains, find your perfect match.",
-    "image": "images/top-7-best-shower-curtains-2026-hero.jpg",
+    "image": "images/top-7-best-shower-curtains-2026-hero.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-02-01",
     "category": "Reviews",
     "featured": false,
-    "description": "We tested 30+ shower curtains to find the 7 best in 2026. From budget PEVA liners to luxury hotel-style fabric curtains, find your perfect match."
+    "description": "We tested 30+ shower curtains to find the 7 best in 2026. From budget PEVA liners to luxury hotel-style fabric curtains, find your perfect match.",
+    "template": "roundup"
   },
   {
     "title": "6 Best Extra Long Shower Curtains for Tall Showers (2026)",
     "slug": "best-extra-long-shower-curtains",
     "summary": "Need a shower curtain longer than 72 inches? We tested 12+ extra long options (72x84 and 72x78) and found 6 that actually prevent water leaks.",
-    "image": "images/hero-best-extra-long-shower-curtains.png",
+    "image": "images/hero-best-extra-long-shower-curtains.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-09",
     "category": "Reviews",
     "featured": false,
-    "description": "Need a shower curtain longer than 72 inches? We tested 12+ extra long options (72x84 and 72x78) and found 6 that actually prevent water leaks."
+    "description": "Need a shower curtain longer than 72 inches? We tested 12+ extra long options (72x84 and 72x78) and found 6 that actually prevent water leaks.",
+    "template": "roundup"
   },
   {
     "title": "6 Best Shower Curtains for Kids: Fun & Durable (2026)",
     "slug": "best-shower-curtains-for-kids",
     "summary": "We tested 12+ kids shower curtains for fun designs, durability, and mold resistance. Our top 6 picks from $10.99 — parent-approved and kid-loved.",
-    "image": "images/hero-best-shower-curtains-for-kids.png",
+    "image": "images/hero-best-shower-curtains-for-kids.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-10",
     "category": "Reviews",
     "featured": false,
-    "description": "We tested 12+ kids shower curtains for fun designs, durability, and mold resistance. Our top 6 picks from $10.99 — parent-approved and kid-loved."
+    "description": "We tested 12+ kids shower curtains for fun designs, durability, and mold resistance. Our top 6 picks from $10.99 — parent-approved and kid-loved.",
+    "template": "roundup"
   },
   {
     "slug": "best-waffle-weave-shower-curtains",
     "title": "7 Best Waffle Weave Shower Curtains for a Spa-Like Bathroom (2026)",
     "summary": "Waffle weave shower curtains bring spa luxury to your bathroom. We tested 7 top picks for texture, waterproofing, and style from $13 to $40.",
-    "image": "images/hero-best-waffle-weave-shower-curtains.png",
+    "image": "images/hero-best-waffle-weave-shower-curtains.webp",
     "publishDate": "2026-03-23",
     "template": "roundup",
     "category": "Waffle Weave",
@@ -284,7 +300,7 @@
     "slug": "best-shower-curtains-for-clawfoot-tubs",
     "title": "Best Shower Curtains for Clawfoot Tubs: 6 Wraparound Picks (2026)",
     "summary": "6 best shower curtains for clawfoot tubs tested for wraparound coverage, waterproofing & style. From $8.59 PEVA liners to $45.99 180-inch wraparound systems. Updated March 2026.",
-    "image": "images/hero-best-shower-curtains-for-clawfoot-tubs.png",
+    "image": "images/hero-best-shower-curtains-for-clawfoot-tubs.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-26",
@@ -297,7 +313,7 @@
     "slug": "best-shower-curtains-for-walk-in-showers",
     "title": "Best Shower Curtains for Walk-In Showers: Splash-Proof Picks for Open Layouts (2026)",
     "summary": "6 best shower curtains for walk-in showers tested for splash protection, weight & coverage. Heavy-duty weighted picks from $7.19 to $26.95 that keep water inside open layouts. Updated March 2026.",
-    "image": "images/hero-best-shower-curtains-for-walk-in-showers.png",
+    "image": "images/hero-best-shower-curtains-for-walk-in-showers.webp",
     "imageWidth": 400,
     "imageHeight": 192,
     "publishDate": "2026-03-27",
