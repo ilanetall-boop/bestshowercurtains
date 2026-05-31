@@ -11,32 +11,6 @@
     "date": "2026-05-31"
   },
   {
-    "title": "Best Clear Shower Curtains: 6 See-Through Picks for Small Bathrooms (2026)",
-    "slug": "best-clear-shower-curtains",
-    "summary": "We tested 15+ clear shower curtains for transparency, durability, and mildew resistance. Our 6 best see-through picks from $7.99 to $24.99 for small bathrooms.",
-    "image": "images/hero-best-clear-shower-curtains.webp",
-    "imageWidth": 400,
-    "imageHeight": 192,
-    "publishDate": "2026-03-29",
-    "category": "Reviews",
-    "template": "roundup",
-    "featured": false,
-    "description": "We tested 15+ clear shower curtains for transparency, durability, and mildew resistance. Our 6 best see-through picks from $7.99 to $24.99 for small bathrooms."
-  },
-  {
-    "title": "Best Double Shower Curtains: 6 Layered Looks (2026)",
-    "slug": "best-double-shower-curtains",
-    "summary": "We tested 12+ double shower curtain sets for style, waterproofing, and ease of use. Our 6 best layered picks from $18.99 to $59.99.",
-    "image": "images/hero-best-double-shower-curtains.webp",
-    "imageWidth": 1200,
-    "imageHeight": 800,
-    "publishDate": "2026-03-31",
-    "category": "Reviews",
-    "template": "roundup",
-    "featured": true,
-    "description": "We tested 12+ double shower curtain sets for style, waterproofing, and ease of use. Our 6 best layered picks from $18.99 to $59.99."
-  },
-  {
     "title": "Best Shower Curtain Hooks and Rings (2026)",
     "slug": "best-shower-curtain-hooks-and-rings",
     "summary": "5 best shower curtain hooks and rings tested for glide, rust resistance, and style. From $6.99 stainless steel to decorative double-hooks. Updated March 2026.",
@@ -128,19 +102,6 @@
     "template": "versus"
   },
   {
-    "title": "5 Best Luxury Hotel-Style Shower Curtains for a Spa Feel (2026)",
-    "slug": "best-luxury-hotel-style-shower-curtains",
-    "summary": "Transform your bathroom into a five-star retreat with our top luxury hotel-style shower curtains. From waffle weave to premium microfiber, find the perfect spa-quality curtain.",
-    "image": "images/hero-best-luxury-hotel-style-shower-curtains.webp",
-    "imageWidth": 400,
-    "imageHeight": 192,
-    "publishDate": "2026-03-01",
-    "category": "Reviews",
-    "featured": false,
-    "description": "Transform your bathroom into a five-star retreat with our top luxury hotel-style shower curtains. From waffle weave to premium microfiber, find the perfect spa-quality curtain.",
-    "template": "roundup"
-  },
-  {
     "title": "How to Choose the Right Shower Curtain Size for Any Bathroom",
     "slug": "how-to-choose-the-right-shower-curtain-size",
     "summary": "Complete guide to shower curtain sizes. Learn how to measure your shower, choose standard vs extra-long vs stall sizes, and avoid common sizing mistakes.",
@@ -152,32 +113,6 @@
     "featured": false,
     "description": "Complete guide to shower curtain sizes. Learn how to measure your shower, choose standard vs extra-long vs stall sizes, and avoid common sizing mistakes.",
     "template": "how-to"
-  },
-  {
-    "title": "Best Shower Curtain Liners to Protect Your Bathroom Floor",
-    "slug": "best-shower-curtain-liners",
-    "summary": "Find the best shower curtain liners to protect your bathroom floor. Expert reviews of PEVA, fabric, and plastic liners with magnets, mildew resistance, and more.",
-    "image": "images/hero-best-shower-curtain-liners.webp",
-    "imageWidth": 400,
-    "imageHeight": 192,
-    "publishDate": "2026-02-24",
-    "category": "Reviews",
-    "featured": false,
-    "description": "Find the best shower curtain liners to protect your bathroom floor. Expert reviews of PEVA, fabric, and plastic liners with magnets, mildew resistance, and more.",
-    "template": "roundup"
-  },
-  {
-    "title": "Best Fabric Shower Curtains: Premium Options for Luxury Bathrooms (2026)",
-    "slug": "best-fabric-shower-curtains",
-    "summary": "Discover the best fabric shower curtains for your bathroom. Compare luxury options, waterproof fabrics & stylish designs.",
-    "image": "images/hero-best-fabric-shower-curtains.webp",
-    "imageWidth": 400,
-    "imageHeight": 192,
-    "publishDate": "2026-02-17",
-    "category": "Reviews",
-    "featured": false,
-    "description": "Discover the best fabric shower curtains for your bathroom. Compare luxury options, waterproof fabrics & stylish designs.",
-    "template": "roundup"
   },
   {
     "title": "Best Shower Curtains for Mold Prevention: Expert Guide (2026)",
@@ -308,43 +243,6 @@
     "featured": false,
     "description": "We tested 12+ kids shower curtains for fun designs, durability, and mold resistance. Our top 6 picks from $10.99 — parent-approved and kid-loved.",
     "template": "roundup"
-  },
-  {
-    "slug": "best-waffle-weave-shower-curtains",
-    "title": "7 Best Waffle Weave Shower Curtains for a Spa-Like Bathroom (2026)",
-    "summary": "Waffle weave shower curtains bring spa luxury to your bathroom. We tested 7 top picks for texture, waterproofing, and style from $13 to $40.",
-    "image": "images/hero-best-waffle-weave-shower-curtains.webp",
-    "publishDate": "2026-03-23",
-    "template": "roundup",
-    "category": "Waffle Weave",
-    "featured": true,
-    "description": "Waffle weave shower curtains bring spa luxury to your bathroom. We tested 7 top picks for texture, waterproofing, and style from $13 to $40."
-  },
-  {
-    "slug": "best-shower-curtains-for-clawfoot-tubs",
-    "title": "Best Shower Curtains for Clawfoot Tubs: 6 Wraparound Picks (2026)",
-    "summary": "6 best shower curtains for clawfoot tubs tested for wraparound coverage, waterproofing & style. From $8.59 PEVA liners to $45.99 180-inch wraparound systems. Updated March 2026.",
-    "image": "images/hero-best-shower-curtains-for-clawfoot-tubs.webp",
-    "imageWidth": 400,
-    "imageHeight": 192,
-    "publishDate": "2026-03-26",
-    "template": "roundup",
-    "category": "Reviews",
-    "featured": true,
-    "description": "6 best shower curtains for clawfoot tubs tested for wraparound coverage, waterproofing & style. From $8.59 PEVA liners to $45.99 180-inch wraparound systems. Updated March 2026."
-  },
-  {
-    "slug": "best-shower-curtains-for-walk-in-showers",
-    "title": "Best Shower Curtains for Walk-In Showers: Splash-Proof Picks for Open Layouts (2026)",
-    "summary": "6 best shower curtains for walk-in showers tested for splash protection, weight & coverage. Heavy-duty weighted picks from $7.19 to $26.95 that keep water inside open layouts. Updated March 2026.",
-    "image": "images/hero-best-shower-curtains-for-walk-in-showers.webp",
-    "imageWidth": 400,
-    "imageHeight": 192,
-    "publishDate": "2026-03-27",
-    "template": "roundup",
-    "category": "Reviews",
-    "featured": true,
-    "description": "6 best shower curtains for walk-in showers tested for splash protection, weight & coverage. Heavy-duty weighted picks from $7.19 to $26.95 that keep water inside open layouts. Updated March 2026."
   },
   {
     "slug": "best-linen-shower-curtains",
