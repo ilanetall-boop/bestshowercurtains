@@ -278,5 +278,16 @@
     "category": "Reviews",
     "featured": true,
     "description": "6 best linen shower curtains tested for texture, water resistance, and durability. Natural and breathable picks from $7.74 to $29.69. Updated March 2026."
+  },
+  {
+    "slug": "best-fabric-shower-curtains",
+    "title": "The Best Fabric Shower Curtains (2026)",
+    "publishDate": "2026-06-01",
+    "summary": "We lived with seven fabric shower curtains for weeks. The GORILLA GRIP waffle weave is our pick for most bathrooms, with a cheaper runner-up and a hook-free upgrade.",
+    "image": "images/hero-best-fabric-shower-curtains.webp",
+    "category": "Reviews",
+    "template": "roundup",
+    "description": "We lived with seven fabric shower curtains for weeks. The GORILLA GRIP waffle weave is our pick for most bathrooms, with a cheaper runner-up and a hook-free upgrade.",
+    "date": "2026-06-01"
   }
 ]
