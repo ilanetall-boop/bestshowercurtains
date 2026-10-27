@@ -12,3 +12,5 @@ service-account*
 *.key
 *.p12
 *.pfx
+
+*.bak
